@@ -11,6 +11,8 @@ html{
 }
 a {
     text-decoration: none;
+    color: rgb(0, 110, 255);
+
 }
 .container {
     min-height: 100vh;
